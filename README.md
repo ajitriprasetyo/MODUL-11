@@ -397,5 +397,3 @@ Berikut adalah dokumentasi hasil *running* dari proyek integrasi Laravel dan AJA
 <p align="center">
   <img src="gagalloaddata.png" width="800" alt="Tampilan Error">
 </p>
-#   M O D U L - 1 1  
- 
