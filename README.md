@@ -117,22 +117,22 @@ File ini berfungsi sebagai penyimpan data statis. Penyimpanan di dalam direktori
 ```json
 [
     {
-        "nama": "Arvan Murbiyanto",
-        "nim": "2311102074",
+        "nama": "Aji Tri Prasetyo",
+        "nim": "2311102064",
         "kelas": "IF-11-04",
         "prodi": "Informatika"
     },
     {
-        "nama": "Lamine Yamal",
-        "nim": "2311101010",
-        "kelas": "PO-11-10",
-        "prodi": "Pendidikan Olahraga"
+        "nama": "Arnanda",
+        "nim": "2311102180",
+        "kelas": "IF-11-04",
+        "prodi": "Informatika"
     },
     {
-        "nama": "Benzema",
-        "nim": "2311109999",
-        "kelas": "AI-11-09",
-        "prodi": "Agama Islam"
+        "nama": "Fikri Az Halim",
+        "nim": "2311102097",
+        "kelas": "IF-11-02",
+        "prodi": "Informatika"
     }
 ]
 
@@ -217,7 +217,7 @@ Antarmuka dibangun menggunakan Laravel Blade dengan JavaScript Fetch API. Implem
             background-color: #f3f4f6;
             margin: 0;
             padding: 40px 20px;
-            color: #1f2937;
+            color: #29371f;
         }
 
         .container {
@@ -236,7 +236,7 @@ Antarmuka dibangun menggunakan Laravel Blade dengan JavaScript Fetch API. Implem
             max-width: 250px;
             margin: 0 auto 30px;
             padding: 12px 20px;
-            background-color: #222f4b;
+            background-color: #2bbb0e;
             color: white;
             border: none;
             border-radius: 8px;
@@ -246,7 +246,7 @@ Antarmuka dibangun menggunakan Laravel Blade dengan JavaScript Fetch API. Implem
         }
 
         .btn-fetch:hover {
-            background-color: #1d4ed8;
+            background-color: #15a51c;
         }
 
         .grid-cards {
@@ -256,7 +256,7 @@ Antarmuka dibangun menggunakan Laravel Blade dengan JavaScript Fetch API. Implem
         }
 
         .card {
-            background: white;
+            background: rgb(139, 209, 99);
             padding: 20px;
             border-radius: 12px;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
